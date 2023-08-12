@@ -1,4 +1,4 @@
-# flutter_country_picker
+# Flutter Country Picker
 
 A new Flutter project.
 
