@@ -1,6 +1,6 @@
 # Flutter Country Picker
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/bh7yk5jnAFE/maxresdefault.jpg)](https://www.youtube.com/watch?v=bh7yk5jnAFE)
 
 ## Getting Started
 
